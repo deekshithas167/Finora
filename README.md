@@ -1,4 +1,4 @@
- Finora — Field Desk
+Finora — Field Desk
 
 Finora — Field Desk is a financial planning and cash-flow management prototype designed to help users understand their income, track expenses, prioritize upcoming payments, and make better financial decisions.
 
